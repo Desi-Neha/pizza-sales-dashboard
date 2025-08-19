@@ -76,5 +76,5 @@ Here are sample screenshots from the Power BI dashboard:
 
 👩‍💻 Created by **Desi Neha P**  
 
-**Neha Prakash**  
+**Desi Neha P**  
 _Data Scientist and Analyst | Passionate about healthcare & business intelligence_  
