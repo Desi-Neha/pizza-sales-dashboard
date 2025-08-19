@@ -18,28 +18,24 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 
 ---
 
-
 ## 📂 Project Structure  
 
-
+```text
 pizza-sales-dashboard/
-│── Data/ # Raw data, SQL queries, and supporting files
-│ ├── pizza_sales.csv
-│ ├── PIZZA SALES SQL QUERIES.docx
-│ └── images/
+│── Data/                     # Raw data, SQL queries, and supporting files
+│   ├── pizza_sales.csv
+│   ├── PIZZA SALES SQL QUERIES.docx
+│   └── images/
 │
-│── Power BI/ # Power BI Dashboard file
-│ └── Pizza DB.pbix
+│── Power BI/                 # Power BI Dashboard file
+│   └── Pizza DB.pbix
 │
-│── dashboard-images/ # Screenshots of dashboards
-│ ├── pizza_dashboard_1.png
-│ └── pizza_dashboard_2.png
+│── dashboard-images/         # Screenshots of dashboards
+│   ├── pizza_dashboard_1.png
+│   └── pizza_dashboard_2.png
 │
-│── README.md # Project documentation
-
-
----
-
+│── README.md                 # Project documentation
+```text
 
 ## 📊 Features  
 
