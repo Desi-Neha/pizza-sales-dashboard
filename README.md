@@ -14,7 +14,8 @@ Profitability Metrics – Understand revenue contribution by category and size.
 
 Interactive Filters – Slice and dice the data with dynamic visuals.
 
-🗂 **Project Structure**
+## 📂 Project Structure  
+
 pizza-sales-dashboard/
 │── Data/ # Raw data, SQL queries, and supporting images
 │ ├── pizza_sales.csv
