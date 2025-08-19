@@ -8,6 +8,8 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 
 ---
 
+
+
 ## 📊 Dashboard Overview  
 
 - ***Sales Trends*** – Track daily, monthly, and yearly sales performance.  
@@ -15,6 +17,8 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 - ***Customer Insights*** – Analyze order types (delivery vs dine-in).  
 - ***Profitability Metrics*** – Understand revenue contribution by category and size.  
 - ***Interactive Filters*** – Slice and dice the data with dynamic visuals.  
+
+
 
 ---
 
