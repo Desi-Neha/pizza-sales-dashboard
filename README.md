@@ -18,8 +18,8 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 
 ---
 
-## 📂 Project Structure  
 
+## 📂 Project Structure  
 pizza-sales-dashboard/
 │── Data/ # Raw data, SQL queries, and supporting files
 │ ├── pizza_sales.csv
