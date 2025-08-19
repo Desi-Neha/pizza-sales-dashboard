@@ -35,7 +35,7 @@ pizza-sales-dashboard/
 │   └── pizza_dashboard_2.png
 │
 │── README.md                 # Project documentation
-```text
+```
 
 ## 📊 Features  
 
