@@ -8,8 +8,6 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 
 ---
 
-
-
 ## 📊 Dashboard Overview  
 
 - ***Sales Trends*** – Track daily, monthly, and yearly sales performance.  
@@ -18,12 +16,10 @@ An interactive **Power BI Dashboard** that provides insights on pizza sales tren
 - ***Profitability Metrics*** – Understand revenue contribution by category and size.  
 - ***Interactive Filters*** – Slice and dice the data with dynamic visuals.  
 
-
-
 ---
 
-
 ## 📂 Project Structure  
+
 pizza-sales-dashboard/
 │── Data/ # Raw data, SQL queries, and supporting files
 │ ├── pizza_sales.csv
@@ -38,7 +34,6 @@ pizza-sales-dashboard/
 │ └── pizza_dashboard_2.png
 │
 │── README.md # Project documentation
-
 
 ---
 
@@ -81,7 +76,5 @@ Here are sample screenshots from the Power BI dashboard:
 
 👩‍💻 Created by **Desi Neha P**  
 
-
-Neha Prakash
-
-Data Scientist and Analyst | Passionate about healthcare & business intelligence
+**Neha Prakash**  
+_Data Scientist and Analyst | Passionate about healthcare & business intelligence_  
