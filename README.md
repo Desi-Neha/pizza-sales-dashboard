@@ -46,11 +46,11 @@ SQL – Data cleaning, aggregation, and querying.
 
 Excel/CSV – Data preprocessing.
 
-📷** Dashboard Snapshots**
+📷**Dashboard Snapshots**
 
 Here are sample views of the dashboard:
 
-🚀** How to Use**
+🚀**How to Use**
 
 Download the .pbix file from the Power BI folder.
 
@@ -58,7 +58,7 @@ Open it in Microsoft Power BI Desktop.
 
 Explore the interactive visuals and filters.
 
-🎯** Key Insights**
+🎯**Key Insights**
 
 Large-sized pizzas contribute the highest revenue.
 
@@ -68,7 +68,7 @@ Delivery orders outperform dine-in orders in frequency.
 
 Seasonal peaks visible during holiday months.
 
-📌** Future Improvements**
+📌**Future Improvements**
 
 Automate data refresh with Power BI Service.
 
